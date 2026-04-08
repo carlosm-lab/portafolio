@@ -1,0 +1,7 @@
+Contact: mailto:carlosmolina.contact@gmail.com
+Expires: 2027-01-07T00:00:00.000Z
+Preferred-Languages: es, en
+Canonical: https://carlosmolina.vercel.app/.well-known/security.txt
+Policy: https://carlosmolina.vercel.app/privacy
+Acknowledgments: https://carlosmolina.vercel.app/#contact
+Hiring: https://carlosmolina.vercel.app/
